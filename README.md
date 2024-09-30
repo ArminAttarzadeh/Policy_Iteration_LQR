@@ -2,7 +2,9 @@
 
 This repository contains MATLAB codes for solving Linear Quadratic Regulator (LQR) problems using model-free Reinforcement Learning (RL) techniques. It includes methods such as Policy Iteration, Value Iteration, and Integral Reinforcement Learning (IRL) for continuous state-space systems. These approaches allow us to compute the optimal control gains without needing the system's dynamics explicitly.
 
-![no caption](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*W8o7nYS_hJZNI_gIpjA41Q.gif)
+<img src="./header_gif.gif" alt="Control Simulation" width="800" />
+
+*Source: [Original GIF](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*W8o7nYS_hJZNI_gIpjA41Q.gif)*
 
 ## Table of Contents
 - [Overview](#overview)
